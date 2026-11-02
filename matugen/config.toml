@@ -1,0 +1,9 @@
+# Used by zshell's Wallpaper service: `matugen -c <this file> image <wallpaper>`.
+# Add your own [templates.*] entries here (kitty, gtk, nvim, ...) so one
+# wallpaper change recolours everything.
+
+[config]
+
+[templates.zshell]
+input_path = "~/.config/quickshell/zshell/matugen/colors.json"
+output_path = "~/.local/state/zshell/colors.json"

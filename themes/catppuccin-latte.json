@@ -1,0 +1,19 @@
+{
+  "name": "Catppuccin Latte",
+  "dark": false,
+  "colors": {
+    "base": "#dce0e8",
+    "surface": "#eff1f5",
+    "surfaceHigh": "#ccd0da",
+    "overlay": "#bcc0cc",
+    "text": "#4c4f69",
+    "subtext": "#6c6f85",
+    "primary": "#8839ef",
+    "onPrimary": "#eff1f5",
+    "secondary": "#1e66f5",
+    "tertiary": "#ea76cb",
+    "error": "#d20f39",
+    "warning": "#df8e1d",
+    "success": "#40a02b"
+  }
+}

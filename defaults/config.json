@@ -1,0 +1,67 @@
+{
+  "layout": {
+    "mode": "bar",
+    "position": "top",
+    "floating": true,
+    "workspaces": 5,
+    "reserveSpace": true
+  },
+  "appearance": {
+    "theme": {
+      "source": "preset",
+      "preset": "catppuccin-mocha",
+      "mode": "dark",
+      "variant": "scheme-tonal-spot"
+    },
+    "glass": {
+      "enabled": true,
+      "preset": "frosted",
+      "blur": {
+        "size": 8,
+        "passes": 3,
+        "noise": 0.02,
+        "contrast": 0.9,
+        "brightness": 0.85,
+        "vibrancy": 0.2
+      },
+      "tint": {
+        "bar": 0.55,
+        "island": 0.62,
+        "popup": 0.7
+      },
+      "border": 0.12,
+      "highlight": 0.06,
+      "manageHyprland": true
+    },
+    "wallpaper": {
+      "backend": "zshell",
+      "path": "",
+      "directory": "~/Pictures/Wallpapers",
+      "autoTheme": true,
+      "transition": "fade",
+      "transitionMs": 600
+    },
+    "fonts": {
+      "ui": "Inter",
+      "mono": "JetBrains Mono",
+      "icon": "Material Symbols Rounded",
+      "size": 13
+    },
+    "radius": 14,
+    "gap": 8,
+    "animationSpeed": 1.0,
+    "reduceMotion": false
+  },
+  "clock": {
+    "timeFormat": "hh:mm",
+    "dateFormat": "ddd d MMM"
+  },
+  "notifications": {
+    "dnd": false,
+    "timeoutMs": 5000,
+    "maxPopups": 4
+  },
+  "osd": {
+    "timeoutMs": 1500
+  }
+}

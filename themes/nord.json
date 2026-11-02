@@ -1,0 +1,19 @@
+{
+  "name": "Nord",
+  "dark": true,
+  "colors": {
+    "base": "#242933",
+    "surface": "#2e3440",
+    "surfaceHigh": "#3b4252",
+    "overlay": "#4c566a",
+    "text": "#eceff4",
+    "subtext": "#d8dee9",
+    "primary": "#88c0d0",
+    "onPrimary": "#2e3440",
+    "secondary": "#81a1c1",
+    "tertiary": "#b48ead",
+    "error": "#bf616a",
+    "warning": "#ebcb8b",
+    "success": "#a3be8c"
+  }
+}
